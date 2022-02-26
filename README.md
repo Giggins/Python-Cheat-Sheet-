@@ -1,14 +1,14 @@
 # Python-Cheat-Sheet-
 This language is called Mark Down
-## SUCK IT 
+## YES IT 
 ## DUCK IT
 ### LEZO
 #### RANDI
 ```python 
 print {"hello world"} 
-**My name is pundi,  and i am a pundi 
-*I live in pundi town*
-!(
+**My name is ollie,  and i am a ollie
+*I live in ollie town*
+!(yamaro.jpeg)
 
 
 
